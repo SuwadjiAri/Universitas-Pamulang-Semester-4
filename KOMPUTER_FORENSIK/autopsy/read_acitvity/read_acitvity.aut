@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2024/06/08 11:49:31 (WIB)</CreatedDate>
+  <ModifiedDate>2024/06/08 11:49:34 (WIB)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.21.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.21.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>read_acitvity_20240608_114931</Name>
+    <DisplayName>read_acitvity</DisplayName>
+    <Number>072024_01</Number>
+    <Examiner>Arif Frima Ari S</Examiner>
+    <ExaminerPhone>082218353581</ExaminerPhone>
+    <ExaminerEmail>arifsuwadji@gmail.com</ExaminerEmail>
+    <CaseNotes>Percobaan autopsy</CaseNotes>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
